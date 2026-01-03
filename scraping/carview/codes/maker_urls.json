@@ -1,0 +1,163 @@
+{
+  "nissan": [
+    "https://carview.yahoo.co.jp/ncar/catalog/nissan/leaf/",
+    "https://carview.yahoo.co.jp/ncar/catalog/nissan/clipper_ev/",
+    "https://carview.yahoo.co.jp/ncar/catalog/nissan/sakura/",
+    "https://carview.yahoo.co.jp/ncar/catalog/nissan/ariya/",
+    "https://carview.yahoo.co.jp/ncar/catalog/nissan/e_nv200_van/",
+    "https://carview.yahoo.co.jp/ncar/catalog/nissan/e_nv200/"
+  ],
+  "suzuki": [
+    "https://carview.yahoo.co.jp/ncar/catalog/suzuki/e_vitara/"
+  ],
+  "peugeot": [
+    "https://carview.yahoo.co.jp/ncar/catalog/peugeot/e-2008/",
+    "https://carview.yahoo.co.jp/ncar/catalog/peugeot/e-208/"
+  ],
+  "audi": [
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/a6_sportback_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/a6_avant_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/q4_sportback_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/s6_sportback_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/rs_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/sq6_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/sq6_sportback_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/sq8_sportback_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/q6_sportback_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/q8_sportback_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/e_tron_sportback/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/s6_avant_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/s_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/q4_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/e_tron_gt/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/q8_e_tron/",
+    "https://carview.yahoo.co.jp/ncar/catalog/audi/q6_e_tron/"
+  ],
+  "rolls-royce": [
+    "https://carview.yahoo.co.jp/ncar/catalog/rolls-royce/spectre/"
+  ],
+  "hyundai": [
+    "https://carview.yahoo.co.jp/ncar/catalog/hyundai/kona/",
+    "https://carview.yahoo.co.jp/ncar/catalog/hyundai/inster/",
+    "https://carview.yahoo.co.jp/ncar/catalog/hyundai/ioniq_5/"
+  ],
+  "mercedes-benz": [
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/eqa/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/eqs/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/eqs_suv/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/g-class_hatchback/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/eqe/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/eqb/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/eqc/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes-benz/eqe_suv/"
+  ],
+  "porsche": [
+    "https://carview.yahoo.co.jp/ncar/catalog/porsche/taycan_cross_turismo/",
+    "https://carview.yahoo.co.jp/ncar/catalog/porsche/macan_electric/",
+    "https://carview.yahoo.co.jp/ncar/catalog/porsche/taycan/"
+  ],
+  "volkswagen": [
+    "https://carview.yahoo.co.jp/ncar/catalog/volkswagen/id_buzz/",
+    "https://carview.yahoo.co.jp/ncar/catalog/volkswagen/e_up/",
+    "https://carview.yahoo.co.jp/ncar/catalog/volkswagen/id4/",
+    "https://carview.yahoo.co.jp/ncar/catalog/volkswagen/e_golf/"
+  ],
+  "bmw": [
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/i4/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/ix2/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/i5/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/i7/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/ix3/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/ix1/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/i5_touring/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/ix/",
+    "https://carview.yahoo.co.jp/ncar/catalog/bmw/i3/"
+  ],
+  "abarth": [
+    "https://carview.yahoo.co.jp/ncar/catalog/abarth/abarth_595e_cabriolet/",
+    "https://carview.yahoo.co.jp/ncar/catalog/abarth/abarth_500e_hatchback/"
+  ],
+  "byd": [
+    "https://carview.yahoo.co.jp/ncar/catalog/byd/dolphin/",
+    "https://carview.yahoo.co.jp/ncar/catalog/byd/atto3/",
+    "https://carview.yahoo.co.jp/ncar/catalog/byd/seal/",
+    "https://carview.yahoo.co.jp/ncar/catalog/byd/sealion_7/"
+  ],
+  "tesla": [
+    "https://carview.yahoo.co.jp/ncar/catalog/tesla/model_3/",
+    "https://carview.yahoo.co.jp/ncar/catalog/tesla/cybertruck/",
+    "https://carview.yahoo.co.jp/ncar/catalog/tesla/model_x/",
+    "https://carview.yahoo.co.jp/ncar/catalog/tesla/model_s/",
+    "https://carview.yahoo.co.jp/ncar/catalog/tesla/model_y/"
+  ],
+  "mini": [
+    "https://carview.yahoo.co.jp/ncar/catalog/mini/mini_aceman/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mini/mini_cooper/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mini/mini_countryman/"
+  ],
+  "jaguar": [
+    "https://carview.yahoo.co.jp/ncar/catalog/jaguar/i_pace/"
+  ],
+  "subaru": [
+    "https://carview.yahoo.co.jp/ncar/catalog/subaru/solterra/"
+  ],
+  "alfaromeo": [
+    "https://carview.yahoo.co.jp/ncar/catalog/alfaromeo/junior/"
+  ],
+  "toyota": [
+    "https://carview.yahoo.co.jp/ncar/catalog/toyota/bz4x/",
+    "https://carview.yahoo.co.jp/ncar/catalog/toyota/c_pod/"
+  ],
+  "lexus": [
+    "https://carview.yahoo.co.jp/ncar/catalog/lexus/ux_ev/",
+    "https://carview.yahoo.co.jp/ncar/catalog/lexus/rz/"
+  ],
+  "mitsubishi": [
+    "https://carview.yahoo.co.jp/ncar/catalog/mitsubishi/minicab-miev/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mitsubishi/i_miev/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mitsubishi/minicab_ev/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mitsubishi/minicab_miev_truck/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mitsubishi/ek_cross_ev/"
+  ],
+  "mercedes_amg": [
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes_amg/eqe_suv/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes_amg/eqs/",
+    "https://carview.yahoo.co.jp/ncar/catalog/mercedes_amg/eqe/"
+  ],
+  "volvo": [
+    "https://carview.yahoo.co.jp/ncar/catalog/volvo/c40/",
+    "https://carview.yahoo.co.jp/ncar/catalog/volvo/ex30/",
+    "https://carview.yahoo.co.jp/ncar/catalog/volvo/xc40_recharge_pure_electric/",
+    "https://carview.yahoo.co.jp/ncar/catalog/volvo/ex30_cross_country/",
+    "https://carview.yahoo.co.jp/ncar/catalog/volvo/ex40/"
+  ],
+  "fiat": [
+    "https://carview.yahoo.co.jp/ncar/catalog/fiat/fiat500e_hatchback/",
+    "https://carview.yahoo.co.jp/ncar/catalog/fiat/fiat600e/",
+    "https://carview.yahoo.co.jp/ncar/catalog/fiat/fiat500e_cabriolet/"
+  ],
+  "lotus": [
+    "https://carview.yahoo.co.jp/ncar/catalog/lotus/eletre/"
+  ],
+  "honda": [
+    "https://carview.yahoo.co.jp/ncar/catalog/honda/n_van_e/",
+    "https://carview.yahoo.co.jp/ncar/catalog/honda/n-one_e/",
+    "https://carview.yahoo.co.jp/ncar/catalog/honda/honda_e/"
+  ],
+  "smart": [
+    "https://carview.yahoo.co.jp/ncar/catalog/smart/fortwo_electric_drive/"
+  ],
+  "ds_automobile": [
+    "https://carview.yahoo.co.jp/ncar/catalog/ds_automobile/ds3_crossback_e_tense/"
+  ],
+  "citroen": [
+    "https://carview.yahoo.co.jp/ncar/catalog/citroen/e-c4/"
+  ],
+  "mazda": [
+    "https://carview.yahoo.co.jp/ncar/catalog/mazda/mx-30_ev_model/"
+  ],
+  "maserati": [
+    "https://carview.yahoo.co.jp/ncar/catalog/maserati/granturismo_folgore/"
+  ]
+}
